@@ -2,3 +2,4 @@
 
 All data is downloaded to `data/`
 
+Data should be within data in `train/` and `test/`
