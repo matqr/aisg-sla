@@ -3,3 +3,6 @@ zip/
 *.model.train
 Deep-SLAM-main/
 DeepVO-pytorch-master/
+.ipynb_checkpoints
+.idea
+submission_format.csv
